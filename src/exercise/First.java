@@ -6,6 +6,7 @@ public class First {
 
 		System.out.println("eclipseをはじめよう");
 		System.out.println("お試し");
+		System.out.println("追加");
 
 	}
 
